@@ -1,4 +1,6 @@
 ## Java Goof
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Farielorn%2Fjava-snyk-goof.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Farielorn%2Fjava-snyk-goof?ref=badge_shield)
+
 
 A vulnerable demo application, initially based on [Ben Hassine](https://github.com/benas/)'s [TodoMVC](https://github.com/benas/todolist-mvc). 
 
@@ -19,3 +21,6 @@ This repo is still incomplete, a work in progress to support related presentatio
 
 ## License
 This repo is available released under the [MIT License](http://opensource.org/licenses/mit-license.php/).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Farielorn%2Fjava-snyk-goof.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Farielorn%2Fjava-snyk-goof?ref=badge_large)
